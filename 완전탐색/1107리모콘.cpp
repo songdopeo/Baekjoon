@@ -35,7 +35,7 @@ bool possible(int n)
 int main()
 {
 
-	int channel;//ä��
+	int channel;//Ã¤³Î
 	int number;
 	cin >> channel >> number;
 
